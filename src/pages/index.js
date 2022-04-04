@@ -1,0 +1,1 @@
+export {dafault as GeneralInicio} from './General/Inicio/Inicio'
